@@ -5,18 +5,18 @@ homepage: https://acmesoftware.com
 repository: https://github.com/AcmeSoftwareLLC/honeywell_mobility_sdk
 
 environment:
-  sdk: '>=2.19.5 <3.0.0'
-  flutter: ">=2.5.0"
+  sdk: '>=3.6.0 <4.0.0'
+  flutter: ">=3.35.2"
 
 dependencies:
   flutter:
     sdk: flutter
-  pigeon: ^9.1.2
+  pigeon: ^26.0.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  very_good_analysis: ^4.0.0+1
+  very_good_analysis: ^9.0.0
 
 flutter:
   plugin:
